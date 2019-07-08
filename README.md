@@ -1,4 +1,3 @@
-# submission1_app
 
 A new Flutter application.
 
